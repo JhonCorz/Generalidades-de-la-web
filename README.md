@@ -17,7 +17,7 @@ Debemos conocer las PWA (aplicaciones web progresivas) las cuales utilizan tecno
 - la posibilidad de trabajar sin conexión 
 - poder enviar notificaciones a los usuarios, como una app nativa
 
-Con todo esto en mente podemos tener mas claro el enfoque en el desarrollo de software y tener un buen punto de partida para cada uno de nostros y poder enfocarnos o centrarnos en lo que mas nos llama la atencion.
+Con todo esto en mente podemos tener más claro el enfoque en el desarrollo de software y tener un buen punto de partida para cada uno de nosotros y poder enfocarnos o centrarnos en lo que más nos llama la atención.
 
 
 
